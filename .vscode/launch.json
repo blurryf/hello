@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "IncomeTaxCalculator",
+            "request": "launch",
+            "mainClass": "IncomeTaxCalculator",
+            "projectName": "hello_21f6701a"
+        },
+        {
+            "type": "java",
             "name": "Launch Java Program",
             "request": "launch",
             "mainClass": ""
@@ -34,14 +41,6 @@
             "type": "chrome",
             "webRoot": "${workspaceFolder}"
         },
-
-
-
-
-
-
-
-
         {
             "type": "java",
             "name": "Current File",
